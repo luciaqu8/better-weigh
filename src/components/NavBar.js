@@ -1,7 +1,5 @@
 import {useState} from 'react'
 import Logo from "../assets/better-weigh-logo.svg";
-import Menu from "../assets/menu-mobile.svg"
-import Close from "../assets/cross.png"
 
 const NavBar = () => {
 
